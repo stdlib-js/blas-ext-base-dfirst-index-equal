@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`412de11`](https://github.com/stdlib-js/stdlib/commit/412de11c9b73aedaadb0c8ffac231d2d76696d60) - **docs:** fix descriptions _(by Athan Reines)_
 -   [`adf21e7`](https://github.com/stdlib-js/stdlib/commit/adf21e70198f686b2439b8c91a5011e77193b040) - **feat:** add `blas/ext/base/dfirst-index-equal` [(#13289)](https://github.com/stdlib-js/stdlib/pull/13289) _(by Muhammad Haris, Athan Reines)_
 
 </details>
