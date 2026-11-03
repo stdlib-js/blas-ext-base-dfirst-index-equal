@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-24)
+## Unreleased (2026-11-03)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`67c1633`](https://github.com/stdlib-js/stdlib/commit/67c1633c999488e1807bb2aa77183662c6eb387b) - **chore:** fix inconsistencies across packages in `blas/ext/base*` [(#15146)](https://github.com/stdlib-js/stdlib/pull/15146) _(by Muhammad Haris, Athan Reines)_
 -   [`10ee0a5`](https://github.com/stdlib-js/stdlib/commit/10ee0a56ed60ae3d051ff0426b8e203a29c44cdc) - **chore:** clean-up [(#13754)](https://github.com/stdlib-js/stdlib/pull/13754) _(by Philipp Burckhardt)_
 -   [`e713916`](https://github.com/stdlib-js/stdlib/commit/e713916fe28d3fa9bfe95766a1106cf78453e3b4) - **chore:** clean-up [(#13409)](https://github.com/stdlib-js/stdlib/pull/13409) _(by Philipp Burckhardt)_
